@@ -1,0 +1,24 @@
+{
+  "name": "burgerdb",
+  "version": "1.0.0",
+  "description": "Node,Express,Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jplatty/BurgerDB.git"
+  },
+  "author": "John Plattenburg Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jplatty/BurgerDB/issues"
+  },
+  "homepage": "https://github.com/Jplatty/BurgerDB#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
